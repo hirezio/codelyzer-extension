@@ -2,6 +2,8 @@
 
 This repo aims to prevent developers from making less obvious, but crucial mistakes in their Angular code.
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 ## Installation
 
 `npm install -D @hirezio/codelyzer-extension`
